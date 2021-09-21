@@ -3,3 +3,6 @@
 - [x] [Webpack](https://github.com/TomSG03/ajs-homeworks_modules_webpack)
 - [x] [Import/Export](https://github.com/TomSG03/ajs-homeworks_modules)
 - [x] ESM (задача со звёздочкой)
+
+---
+[Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
